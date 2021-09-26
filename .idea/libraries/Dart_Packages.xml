@@ -31,6 +31,13 @@
             </list>
           </value>
         </entry>
+        <entry key="auto_route">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/../../tools/flutter/.pub-cache/git/auto_route_library-6ee88f86502b614ccf73c76c4b6811391cebc61f/auto_route/lib" />
+            </list>
+          </value>
+        </entry>
         <entry key="boolean_selector">
           <value>
             <list>
@@ -568,6 +575,7 @@
       </option>
     </properties>
     <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../tools/flutter/.pub-cache/git/auto_route_library-6ee88f86502b614ccf73c76c4b6811391cebc61f/auto_route/lib" />
       <root url="file://$PROJECT_DIR$/../../tools/flutter/.pub-cache/hosted/pub.dartlang.org/_fe_analyzer_shared-26.0.0/lib" />
       <root url="file://$PROJECT_DIR$/../../tools/flutter/.pub-cache/hosted/pub.dartlang.org/analyzer-2.3.0/lib" />
       <root url="file://$PROJECT_DIR$/../../tools/flutter/.pub-cache/hosted/pub.dartlang.org/args-2.3.0/lib" />

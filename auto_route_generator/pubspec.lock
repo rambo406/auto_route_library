@@ -32,9 +32,11 @@ packages:
   auto_route:
     dependency: "direct main"
     description:
-      path: "../auto_route"
-      relative: true
-    source: path
+      path: auto_route
+      ref: HEAD
+      resolved-ref: "6ee88f86502b614ccf73c76c4b6811391cebc61f"
+      url: "https://github.com/rambo406/auto_route_library.git"
+    source: git
     version: "2.2.0"
   boolean_selector:
     dependency: transitive

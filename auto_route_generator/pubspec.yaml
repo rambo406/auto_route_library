@@ -8,8 +8,7 @@ environment:
 
 dependencies:
   build: ^2.0.1
-  source_gen: ^1.0.0
-  analyzer: ">=0.40.0 <2.0.0"
+  source_gen: ^1.1.0
   path: ^1.8.0
   build_runner: ^2.0.2
   code_builder: ^4.0.0
@@ -17,6 +16,7 @@ dependencies:
   auto_route:
 #    ^2.1.0
     path: ../auto_route
+  json_annotation: ^4.1.0
 
 
 dev_dependencies:
